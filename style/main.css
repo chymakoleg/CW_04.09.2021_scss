@@ -1,6 +1,4 @@
 .container {
-  max-width: 1926px;
-  padding: 0px 5px;
   margin: 0 auto;
 }
 
@@ -75,7 +73,7 @@
   max-width: 651px;
   border: 1px solid #E8E8EE;
   border-radius: 3px;
-  background-color: #FCFCFC;
+  background-color: #F2F2F2;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -108,13 +106,13 @@
 .form-control {
   font-size: 14px;
   border: none;
-  background-color: #FCFCFC;
+  background-color: #F2F2F2;
 }
 
 .form__select-lg {
   font-size: 14px;
   border: none;
-  background-color: #FCFCFC;
+  background-color: #F2F2F2;
   color: #828282;
   line-height: 16px;
 }
@@ -170,10 +168,9 @@
   line-height: 16px;
   color: #FFFFFF;
 }
-.rectangle31 {
-  
-}
+
 .rectangle31__text {
+  position: absolute;
   margin-top: 103px;
   margin-left: 17px;
   margin-right: 225px;
@@ -186,7 +183,7 @@
   margin-top: 132px;
   margin-left: 17px;
   margin-right: 205px;
-
+  position: absolute;
   font-size: 18px;
   line-height: 16px;
   color: #FFFFFF;
@@ -239,7 +236,7 @@
 }
 
 .input-group-text a {
-  margin-left: 65px;
+  margin-left: 5px;
 }
 
 .card {
@@ -506,7 +503,7 @@
 }
 
 .input-group-text a {
-  margin-left: 40px;
+  margin-left: 45px;
 }
 
 .card {

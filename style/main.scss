@@ -18,8 +18,8 @@ $centr: 0 auto;
     background-color: $bg_col-main;
   }
   .header__inner-menu {
-    margin: $centr
-    max-width: $container_mini
+    margin: $centr;
+    max-width:$container_mini;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -29,9 +29,9 @@ $centr: 0 auto;
     color: #4F4F4F; 
   }
   .sidebar{
-    margin: $centr
+    margin: $centr;
     background-color: #fff;
-    max-width: $
+    max-width: $container_mini;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -49,13 +49,13 @@ $centr: 0 auto;
     max-width: 651px;
     border: 1px solid #E8E8EE;
     border-radius: 3px;
-    background-color: $bg_col-main
+    background-color: $bg_col-main;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
   .form-select {
-    max-width: 184px ;
+    max-width: 184px;
     border: none;
   }
   .container {
@@ -71,12 +71,12 @@ $centr: 0 auto;
   .form-control {
     font-size: 14px;
     border: none;
-    background-color: $bg_col-main
+    background-color: $bg_col-main;
   } 
   .form__select-lg {
     font-size: 14px;
     border: none;
-    background-color: $bg_col-main
+    background-color: $bg_col-main;
     color: #828282;
     line-height: 16px;
   }
@@ -170,7 +170,7 @@ $centr: 0 auto;
     margin: 0px 7px 0px -15px;
   }
   .input-group-text a {
-    margin-left: 65px;
+    margin-left: 5px;
   }
   .card {
     margin-bottom: 31px;
@@ -359,7 +359,7 @@ $centr: 0 auto;
   margin: 0px 7px 0px -15px;
 }
 .input-group-text a {
-  margin-left: 65px;
+  margin-left: 45px;
 }
 .card {
   margin-bottom: 31px;
